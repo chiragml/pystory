@@ -1,0 +1,6 @@
+numpy
+pandas
+pyspark
+pathlib
+opencv-python
+pybase64
